@@ -10,6 +10,8 @@
   * pip
 ### Step-by-step
 ```bash
+pip install graphviz
+pip install zerorpc
 git clone https://github.com/nufeng1999/jupyter-MyMake-kernel.git
 cd jupyter-MyMake-kernel
 pip install -e . 
